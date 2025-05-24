@@ -1,0 +1,19 @@
+{
+  "name": "@temo4kin/ajs",
+  "version": "1.0.0",
+  "description": "Лабораторная работа к теме \"Платформы: браузер vs Node.js\"",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temo4kin/ajs.git"
+  },
+  "author": "Temo4kin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temo4kin/ajs/issues"
+  },
+  "homepage": "https://github.com/temo4kin/ajs#readme"
+}
